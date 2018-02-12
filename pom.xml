@@ -12,6 +12,7 @@
     <modules>
         <module>eureka-service</module>
         <module>eureka-client</module>
+        <module>feign-client</module>
     </modules>
 
 </project>
