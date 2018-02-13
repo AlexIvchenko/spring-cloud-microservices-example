@@ -1,0 +1,128 @@
+Active Internet connections (w/o servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+tcp        0      0 kobzon:ssh              88.201.204.98:56464     ESTABLISHED 30706/sshd: root@no 
+tcp        0     64 kobzon:ssh              88.201.204.98:56194     ESTABLISHED 29766/sshd: root@pt 
+tcp        0      0 kobzon:ssh              88.201.204.98:56433     ESTABLISHED 30015/sshd: root@no 
+Active UNIX domain sockets (w/o servers)
+Proto RefCnt Flags       Type       State         I-Node   PID/Program name     Path
+unix  2      [ ]         DGRAM                    11890    1/systemd            /run/systemd/shutdownd
+unix  2      [ ]         DGRAM                    14732    539/chronyd          /var/run/chrony/chronyd.sock
+unix  2      [ ]         DGRAM                    7599     1/systemd            /run/systemd/notify
+unix  2      [ ]         DGRAM                    7601     1/systemd            /run/systemd/cgroups-agent
+unix  7      [ ]         DGRAM                    7621     1/systemd            /run/systemd/journal/socket
+unix  16     [ ]         DGRAM                    7623     1/systemd            /dev/log
+unix  3      [ ]         STREAM     CONNECTED     17158    1254/master          
+unix  3      [ ]         STREAM     CONNECTED     17189    1254/master          
+unix  3      [ ]         STREAM     CONNECTED     17157    1254/master          
+unix  3      [ ]         DGRAM                    13048    398/systemd-udevd    
+unix  2      [ ]         DGRAM                    17978    1329/crond           
+unix  3      [ ]         STREAM     CONNECTED     14825    545/dbus-daemon      
+unix  3      [ ]         STREAM     CONNECTED     14532    546/gssproxy         
+unix  3      [ ]         STREAM     CONNECTED     17184    1254/master          
+unix  2      [ ]         DGRAM                    4105286  545/dbus-daemon      
+unix  3      [ ]         STREAM     CONNECTED     17160    1254/master          
+unix  2      [ ]         DGRAM                    12906    398/systemd-udevd    
+unix  2      [ ]         DGRAM                    4148022  30015/sshd: root@no  
+unix  2      [ ]         DGRAM                    17132    1254/master          
+unix  3      [ ]         STREAM     CONNECTED     13565    473/auditd           
+unix  3      [ ]         STREAM     CONNECTED     17177    1254/master          
+unix  3      [ ]         STREAM     CONNECTED     12890    357/systemd-journal  /run/systemd/journal/stdout
+unix  2      [ ]         DGRAM                    4108075  1/systemd            
+unix  3      [ ]         STREAM     CONNECTED     14880    562/systemd-logind   
+unix  2      [ ]         DGRAM                    17263    1256/qmgr            
+unix  3      [ ]         STREAM     CONNECTED     17229    1254/master          
+unix  2      [ ]         DGRAM                    14941    543/polkitd          
+unix  3      [ ]         STREAM     CONNECTED     17193    1254/master          
+unix  3      [ ]         STREAM     CONNECTED     4109209  357/systemd-journal  /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     14882    357/systemd-journal  /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     17192    1254/master          
+unix  3      [ ]         STREAM     CONNECTED     17175    1254/master          
+unix  3      [ ]         STREAM     CONNECTED     17161    1254/master          
+unix  3      [ ]         STREAM     CONNECTED     17228    1254/master          
+unix  3      [ ]         STREAM     CONNECTED     17187    1254/master          
+unix  3      [ ]         STREAM     CONNECTED     17174    1254/master          
+unix  3      [ ]         STREAM     CONNECTED     17168    1254/master          
+unix  2      [ ]         DGRAM                    14597    539/chronyd          
+unix  3      [ ]         STREAM     CONNECTED     17167    1254/master          
+unix  3      [ ]         STREAM     CONNECTED     16039    357/systemd-journal  /run/systemd/journal/stdout
+unix  2      [ ]         DGRAM                    14956    562/systemd-logind   
+unix  3      [ ]         STREAM     CONNECTED     14824    545/dbus-daemon      
+unix  3      [ ]         STREAM     CONNECTED     16038    913/python           
+unix  3      [ ]         STREAM     CONNECTED     17164    1254/master          
+unix  2      [ ]         DGRAM                    4113492  29305/dockerd        
+unix  2      [ ]         DGRAM                    14614    534/rsyslogd         
+unix  3      [ ]         STREAM     CONNECTED     17671    1311/do-agent        
+unix  3      [ ]         STREAM     CONNECTED     17688    357/systemd-journal  /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     17165    1254/master          
+unix  3      [ ]         STREAM     CONNECTED     15017    545/dbus-daemon      /var/run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     14827    545/dbus-daemon      /var/run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     17186    1254/master          
+unix  2      [ ]         DGRAM                    35682    2642/systemd-tty-as  
+unix  3      [ ]         STREAM     CONNECTED     17217    1254/master          
+unix  3      [ ]         STREAM     CONNECTED     14818    543/polkitd          
+unix  3      [ ]         STREAM     CONNECTED     14772    1/systemd            
+unix  3      [ ]         STREAM     CONNECTED     14826    545/dbus-daemon      /var/run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     17216    1254/master          
+unix  3      [ ]         STREAM     CONNECTED     13564    473/auditd           
+unix  3      [ ]         STREAM     CONNECTED     17213    1254/master          
+unix  3      [ ]         STREAM     CONNECTED     14762    546/gssproxy         /run/gssproxy.sock
+unix  3      [ ]         STREAM     CONNECTED     17214    1254/master          
+unix  3      [ ]         STREAM     CONNECTED     14759    -                    
+unix  3      [ ]         STREAM     CONNECTED     35687    357/systemd-journal  /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     17211    1254/master          
+unix  3      [ ]         STREAM     CONNECTED     17195    1254/master          
+unix  3      [ ]         STREAM     CONNECTED     16562    1003/nginx: master   
+unix  3      [ ]         STREAM     CONNECTED     14728    357/systemd-journal  /run/systemd/journal/stdout
+unix  2      [ ]         DGRAM                    4183188  31367/pickup         
+unix  3      [ ]         STREAM     CONNECTED     4113558  29305/dockerd        
+unix  3      [ ]         STREAM     CONNECTED     17225    1254/master          
+unix  3      [ ]         DGRAM                    13049    398/systemd-udevd    
+unix  3      [ ]         STREAM     CONNECTED     14727    545/dbus-daemon      
+unix  3      [ ]         STREAM     CONNECTED     14745    546/gssproxy         
+unix  3      [ ]         STREAM     CONNECTED     17226    1254/master          
+unix  3      [ ]         STREAM     CONNECTED     32214    357/systemd-journal  /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     17223    1254/master          
+unix  2      [ ]         DGRAM                    14730    546/gssproxy         
+unix  3      [ ]         STREAM     CONNECTED     32213    2377/sshd            
+unix  3      [ ]         STREAM     CONNECTED     12889    398/systemd-udevd    
+unix  3      [ ]         STREAM     CONNECTED     17222    1254/master          
+unix  3      [ ]         STREAM     CONNECTED     14744    546/gssproxy         
+unix  3      [ ]         STREAM     CONNECTED     17219    1254/master          
+unix  2      [ ]         DGRAM                    13562    473/auditd           
+unix  3      [ ]         STREAM     CONNECTED     16563    1003/nginx: master   
+unix  3      [ ]         STREAM     CONNECTED     17220    1254/master          
+unix  3      [ ]         STREAM     CONNECTED     17183    1254/master          
+unix  3      [ ]         STREAM     CONNECTED     17202    1254/master          
+unix  3      [ ]         STREAM     CONNECTED     17180    1254/master          
+unix  3      [ ]         STREAM     CONNECTED     4109208  29305/dockerd        
+unix  3      [ ]         STREAM     CONNECTED     17172    1254/master          
+unix  2      [ ]         DGRAM                    4153049  30706/sshd: root@no  
+unix  3      [ ]         STREAM     CONNECTED     17181    1254/master          
+unix  3      [ ]         STREAM     CONNECTED     4113530  29305/dockerd        
+unix  3      [ ]         STREAM     CONNECTED     35681    2642/systemd-tty-as  
+unix  3      [ ]         STREAM     CONNECTED     17201    1254/master          
+unix  3      [ ]         STREAM     CONNECTED     4113544  29308/docker-contai  /var/run/docker/containerd/docker-containerd.sock
+unix  3      [ ]         STREAM     CONNECTED     17178    1254/master          
+unix  3      [ ]         STREAM     CONNECTED     4098737  357/systemd-journal  /run/systemd/journal/stdout
+unix  2      [ ]         DGRAM                    17857    1311/do-agent        
+unix  3      [ ]         STREAM     CONNECTED     17198    1254/master          
+unix  3      [ ]         STREAM     CONNECTED     17171    1254/master          
+unix  3      [ ]         STREAM     CONNECTED     17962    357/systemd-journal  /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     17961    1329/crond           
+unix  3      [ ]         STREAM     CONNECTED     17199    1254/master          
+unix  3      [ ]         STREAM     CONNECTED     16763    913/python           
+unix  3      [ ]         STREAM     CONNECTED     4098735  28994/lvmetad        
+unix  3      [ ]         STREAM     CONNECTED     17196    1254/master          
+unix  3      [ ]         STREAM     CONNECTED     4113542  29305/dockerd        
+unix  3      [ ]         STREAM     CONNECTED     16764    545/dbus-daemon      /var/run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     17210    1254/master          
+unix  3      [ ]         STREAM     CONNECTED     17207    1254/master          
+unix  3      [ ]         STREAM     CONNECTED     17208    1254/master          
+unix  3      [ ]         STREAM     CONNECTED     4113559  29308/docker-contai  /var/run/docker/containerd/docker-containerd.sock
+unix  2      [ ]         DGRAM                    4130086  29766/sshd: root@pt  
+unix  3      [ ]         STREAM     CONNECTED     14533    357/systemd-journal  /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     15016    562/systemd-logind   
+unix  3      [ ]         STREAM     CONNECTED     4113531  29308/docker-contai  /var/run/docker/containerd/docker-containerd.sock
+unix  3      [ ]         STREAM     CONNECTED     17204    1254/master          
+unix  3      [ ]         STREAM     CONNECTED     17205    1254/master          
+unix  3      [ ]         STREAM     CONNECTED     17190    1254/master          

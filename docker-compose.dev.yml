@@ -1,0 +1,11 @@
+version: '3'
+services:
+  discovery:
+    build: eureka-service
+  gateway-service:
+    build: gateway-service
+  eureka-client:
+    build: eureka-client
+  feign-client:
+    build: feign-client
+    
